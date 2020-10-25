@@ -12,3 +12,9 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 ## Start collaborating to [Index.html](https://github.com/arjunr50/Handyman-Job-Portel-Website/blob/main/Index.html) after obtaining result locally.
+
+#### Steps:
+1. Copy the code to notepad and save it as index.html format.
+2. For running - open the html file by right-clicking the file and choosing open-with any browser.
+3. For editing - open the html file by right-clicking the file and choosing open-with any text editor.
+#### Re-verify the results and then update the code in the repository.
