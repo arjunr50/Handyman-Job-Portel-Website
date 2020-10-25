@@ -11,7 +11,7 @@
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 
-## Start collaborating to [Index.html](https://github.com/arjunr50/Handyman-Job-Portel-Website/blob/main/Index.html) after obtaining result locally.
+## Start collaborating to [index.html](https://github.com/arjunr50/Handyman-Job-Portel-Website/blob/main/index.html) after obtaining result locally.
 
 #### Steps:
 1. Copy the code to notepad and save it as index.html format.
