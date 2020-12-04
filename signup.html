@@ -33,7 +33,7 @@
     
 </script>
 </head>
-<body class="col-lg-4" style="background-color: black">
+<body class="col-lg-8" style="background-color: black">
     <div class="fixed-top">
         <div class="collapse" id="navbarToggleExternalContent">
           <div class="bg-dark p-4">
@@ -53,7 +53,7 @@
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-          <a href="#"><button type="button" class="btn btn-light btn-lg">Login/SignUp</button>
+          <a href="#"><button type="button" class="btn btn-light btn-lg">Login/SignUp</button></a>
         </nav>
        
       </div>
@@ -67,15 +67,34 @@
 
 <div class="main">  <section class="section pt-8">
 
-<div class="login-box"  style="border:2px solid white; padding: 3px;margin-top: 30%;">
+<div class="login-box"  style="border:2px solid white; padding: 3px;margin-top: 10%; margin-left: 40%;">
 <form id="signup-form" class="signup-form" action="./index.html" method="POST" onsubmit="return validate()">
 <input type="hidden" name="Fp" id="fp">
 <input type="hidden" name="Tz" id="tz">
 <input type="hidden" name="Rc" id="rc">
 
 <div class="login-form__content">
-<h2 class="h1 modal-title mb-2" id="signUpModalCenterTitle">Sign Up</h2>
-<p class="mb-3" style="color: black;">Have an account? <a href="./index.html">Login now.</a></p>
+<h2 class="h1 modal-title mb-2" id="signUpModalCenterTitle" style="color: white;">Sign Up</h2>
+<h5 class="mb-3" style="color: white;">Have an account? <a href="./index.html">Login now.</a></h5>
+
+
+<div class="dropdown">
+  <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Role
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="#">Employer</a>
+    <a class="dropdown-item" href="./signupj.html">Jobseeker</a>
+   
+  </div>
+</div>
+</br>
+
+
+
+
+
 <div class="form-label-over">
     <input type="text" name="Fullname" id="fullname" class="form-control" value="" required>
     <label for="fullname" style="color: white;">Name</label>
