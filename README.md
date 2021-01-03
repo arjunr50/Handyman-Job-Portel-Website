@@ -9,6 +9,8 @@
 - The `employer` can find the workers through location and contact them with the details provided. 
 - It is also useful for students who wish to do part-time jobs.
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+https://arjunr50.github.io/Handyman-Job-Portel-Website/ -This site was built using [GitHub Pages](https://pages.github.com/).
+
+http://www.bluecollerio.cf/ - having database connection.
 
 
